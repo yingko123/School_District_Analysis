@@ -17,5 +17,12 @@ Replacing 9th grader scores lower the overall Thomas High School academic result
 
 <img src =  "Resources/Schools_w_Thomas_adj.png>
 
+* Other affect:<br>
+    - Math and reading scores by grade - replacing Thomas High School 9th grader's scores only affected the scores for this particular group.  All other schools and their per grade scores has no impact.
+
+    <img src = "Resources/Scores by Grade.PNG>
+
+    - Scores by school spending - 
+     
 ## Summary
 
