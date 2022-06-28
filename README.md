@@ -8,7 +8,6 @@ Using tools in the Pandas library, we analyized school and student academic data
 
 * District Summary:<br>
 Replacing scores of Thomas High School's 9th graders with NaNs resulted in slightly lower academic passing rate for the district.  For math it lowered from 75% to 74.8%. For reading, it lowered from 85.8% to 85.7%.  This also resulted in lower overall passing rate from 65.2% to 64.9%.<br>
-<br>
 <img src="Resources/District_Summary_Compare.PNG"><br>
 <br>
 
@@ -18,15 +17,13 @@ Replacing Thomas High School 9th grader scores has no affect on the results of o
 
 * Thomas High School Performance:<br>
 Replacing 9th grader scores with NaNs lower the overall Thomas High School academic results slightly.  The green box in the table below highlighted Thomas High School's performance before the score replacement data treatment.  One can compared these results to the overall Thomas High School performance after replacing 9th graders' scores shown below the summary table.     
-<br>
 <img src =  "Resources/Schools_w_Thomas_adj.png">
 <br/>
-
+<br/>
 * Other affect:<br>
-    *Math and reading scores by grade* - replacing Thomas High School 9th grader's scores has no impact to averages in all other high schools and grade.  The impact is isolated to only Thomas High School 9th grade as show in tables below.  Both of these averages are shown as NaN<br>
     <br/>
-
-        <img src = "Resources/Scores by Grade.PNG">
+    *Math and reading scores by grade* - replacing Thomas High School 9th grader's scores has no impact to averages in all other high schools and grade.  The impact is isolated to only Thomas High School 9th grade as show in tables below.  Both of these averages are shown as NaN<br>
+        <img src = "Resources/Scores_by_Grade.PNG">
     <br/>
     *Scores by School Spending*
      
