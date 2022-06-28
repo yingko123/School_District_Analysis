@@ -45,5 +45,5 @@ From this analysis we can see when we replace Thomas High School's 9th-grade rea
 
 The five academic performance metrics are average math score, average reading score, % passing math, % passing reading, and % overall passing.
 
-These five performance metrics were affected in our district-level analysis. The effect also shows up in the School level analysis. These effects would also be carried into our analysis of scores by school spending, size, and type.  Since we cannot detect any of these effects after rounding, we can conclude that we cannot detect any sign of academic dishonesty by way of lack of data anomaly.  
+These five performance metrics were affected in our district-level analysis. These effects also show up in the School level analysis. The impact would also be carried into our analysis of scores by school spending, size, and type.  Since we cannot detect any of these effects after rounding, we can conclude that we cannot detect any sign of academic dishonesty by way of lack of data anomaly.  
 
