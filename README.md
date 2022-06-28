@@ -19,13 +19,13 @@ Replacing Thomas High School 9th grader scores has no affect on the results of o
 Replacing 9th grader scores with NaNs lower the overall Thomas High School academic results slightly.  The green box in the table below highlighted Thomas High School's performance before the score replacement data treatment.  One can compared these results to the overall Thomas High School performance after replacing 9th graders' scores shown below the summary table.     
 <img src =  "Resources/Schools_w_Thomas_adj.png">
 <br/>
-<br/>
-* Other affect:<br>
+* Other affect:<br/>
     <br/>
     *Math and reading scores by grade* - replacing Thomas High School 9th grader's scores has no impact to averages in all other high schools and grade.  The impact is isolated to only Thomas High School 9th grade as show in tables below.  Both of these averages are shown as NaN<br>
-        <img src = "Resources/Scores_by_Grade.PNG">
     <br/>
-    *Scores by School Spending*
+        <img src = "Resources/Scores_by_Grade.PNG" width="500px">
+    <br/>
+    *Scores by School Spending* - 
      
 ## Summary
 
