@@ -28,22 +28,19 @@ Replacing 9th grader scores with NaNs lower the overall Thomas High School acade
         <img src = "Resources/Scores_by_Grade.PNG" width="600px">
     <br/>
 
-    *Scores by school spending* - We dividing the entire district into four spending bins for this analysis.  with rounding, there is no affect from replacing Thomas High School scores with Nans.
+    *Scores by school spending* - We dividing the entire district into four spending bins for this analysis.  with rounding, there is no affect from replacing Thomas High School scores with Nans.<br>
       
-    <br/>
-        <img src = "Resources/Scores_by_Spending.PNG" width="600px">
+        <img src = "Resources/Scores_by_Spending.PNG width="500px">
     <br/>
 
-    *Scores by school size* - We dividing the entire district into three size bins for this analysis.  with rounding, there is no affect from replacing Thomas High School scores with Nans.
+    *Scores by school size* - We dividing the entire district into three size bins for this analysis.  with rounding, there is no affect from replacing Thomas High School scores with Nans.<br>
       
-    <br/>
-        <img src = "Resources/Scores_by_Size.PNG" width="600px">
+        <img src = "Resources/Scores_by_Size.PNG" width="500px">
     <br/>
 
-    *Scores by school type* - We dividing the entire district into two type bins for this analysis.  with rounding, there is no affect from replacing Thomas High School scores with Nans.
+    *Scores by school type* - We dividing the entire district into two type bins for this analysis.  with rounding, there is no affect from replacing Thomas High School scores with Nans.<br>
       
-    <br/>
-        <img src = "Resources/Scores_by_Type.PNG" width="600px">
+        <img src = "Resources/Scores_by_Type.PNG" width="500px">
     <br/>
 
 ## Summary
